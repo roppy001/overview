@@ -7,6 +7,7 @@
 | [DQ10ランカー分析](https://yumedqx.web.fc2.com/rankanalytics.html) | 個人ランキングのあるイベントで、ランキングの推移をグラフ化するツールです |
 
 # プリコネR向けツール一覧
+
 | ツール名 | 概要 |
 |:-----------------------|:------------------------|
 | [マホbot](https://github.com/roppy001/maho-bot) | クランバトルの予約管理が可能なdiscord bot |
