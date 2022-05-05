@@ -10,6 +10,7 @@
 
 | ツール名 | 概要 |
 |:-----------------------|:------------------------|
+| [クラバト支援ツール](https://roppy001.github.io/prcncbsupporter/cbsupporter.html) | 持越のTL変換を行ってくれるツール |
 | [マホbot](https://github.com/roppy001/maho-bot) | クランバトルの予約管理が可能なdiscord bot |
 
 # その他
