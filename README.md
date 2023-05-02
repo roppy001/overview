@@ -24,5 +24,7 @@
 | [ランカー分析ツール スクレイピング処理](https://github.com/roppy001/dq10rankscraper) | ドラクエ10 | 最新のデータをスクレイピングする処理 |
 | [ランカー分析ツール 加工処理](https://github.com/roppy001/dq10rankdataconverter) | ドラクエ10 | ランキングのJSONデータに加工する処理 |
 | [ランカー分析ツール 表示処理](https://github.com/roppy001/dq10rankanalytics) | ドラクエ10 | ランキングのJSONデータを表示するWebサイト |
+| [DQ10流浪人レーダー Androidアプリ](https://github.com/roppy001/SeraphySearcher) | ドラクエ10 | Push通知を受けたらアラームを鳴らすAndroidアプリ |
+| [DQ10流浪人レーダー サーバアプリ](https://github.com/roppy001/SeraphySearcherService) | ドラクエ10 | twitterを監視し、Push通知を送信するサーバアプリ |
 
 
