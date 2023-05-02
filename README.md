@@ -10,9 +10,19 @@
 | ツール名 | 概要 |
 |:-----------------------|:------------------------|
 | [クラバト支援ツール](https://roppy001.github.io/prcncbsupporter/cbsupporter.html) | 持越のTL変換を行ってくれるツール |
-| [マホbot](https://github.com/roppy001/maho-bot) | クランバトルの予約管理が可能なdiscord bot |
 
-# その他
+# その他ソース置き場
 
-[ソース置き場(Github)](https://github.com/roppy001/)
+[ソース置き場(Github)](https://github.com/roppy001/)<br>
+各リポジトリの説明
+
+| ツール名 | 関連ゲーム | 概要 |
+|:-----------------------|:------------------------|:------------------------|
+| [タルマエbot](https://github.com/roppy001/tarumae-bot) | ウマ娘 | 因子情報を因子検索サイトから抽出するツール |
+| [マチタンbot](https://github.com/roppy001/tarumae-bot) | ウマ娘 | 因子情報をtwitterから抽出するツール |
+| [マホbot](https://github.com/roppy001/maho-bot) | プリコネR | クランバトルの予約管理が可能なdiscord bot |
+| [ランカー分析ツール スクレイピング処理](https://github.com/roppy001/dq10rankscraper) | ドラクエ10 | 最新のデータをスクレイピングする処理 |
+| [ランカー分析ツール 加工処理](https://github.com/roppy001/dq10rankdataconverter) | ドラクエ10 | ランキングのJSONデータに加工する処理 |
+| [ランカー分析ツール 表示処理](https://github.com/roppy001/dq10rankanalytics) | ドラクエ10 | ランキングのJSONデータを表示するWebサイト |
+
 
