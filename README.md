@@ -19,6 +19,7 @@
 
 | ツール名 | 関連ゲーム | 概要 |
 |:-----------------------|:------------------------|:------------------------|
+| [なりきりbot](https://github.com/roppy001/narikiri-bot) | 共通 | OpenAIを使ってキャラクターになりきるdiscord bot |
 | [タルマエbot](https://github.com/roppy001/tarumae-bot) | ウマ娘 | 因子情報を因子検索サイトから抽出するツール |
 | [マチタンbot](https://github.com/roppy001/machitan-bot) | ウマ娘 | 因子情報をtwitterから抽出するツール |
 | [クラバト支援ツール](https://github.com/roppy001/prcncbsupporter) | プリコネR | 持越のTL変換を行ってくれるツール |
